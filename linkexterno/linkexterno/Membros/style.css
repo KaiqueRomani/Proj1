@@ -1,0 +1,14 @@
+body {
+    background-image: linear-gradient( to right, 	#2b2a2a, 	rgb(109, 109, 109));
+    color: white;
+    
+}    
+p {
+        
+    border: 2px solid rgb(255, 255, 255);
+      
+}
+br {
+   color: black;
+}
+
